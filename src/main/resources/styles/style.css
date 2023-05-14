@@ -1,0 +1,21 @@
+.root {
+    -fx-background-image: url("/graphics/backgrounds/background_generic.png");
+
+    -fx-base: #80c4c0;
+    -fx-control-inner-background: #abdcc2;
+    -fx-focus-color: #e6f3f2;
+
+    -fx-spacing: 10px;
+    -fx-padding: 200px;
+    -fx-alignment: center;
+
+
+    -fx-border-radius: 0 0 0 0;
+    -fx-background-radius: 0 0 0 0;
+}
+.label{
+    -fx-text-fill: black;
+}
+#credits{
+    -fx-text-fill: #abdcc2;
+}
